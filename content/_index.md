@@ -32,7 +32,7 @@ sections:
             This workshop aims to examine and challenge the current machine learning dominance in recommender systems research by reconnecting the field with its interdisciplinary origins. 
             While algorithmic advancements have produced remarkable technical progress, the field has gradually narrowed its methodological diversity, potentially overlooking crucial psychological, design, and human-centered dimensions that were foundational to early recommender systems research.
   - block: markdown
-    id: cfa
+    id: cfp
     content:
         title: Call for Papers and Provocative Perspectives
         text: |-
