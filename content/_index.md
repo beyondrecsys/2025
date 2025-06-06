@@ -65,13 +65,13 @@ sections:
               - **Position papers** (maximum 6 pages, excluding references)
               - **Case study papers** (maximum 10 pages, excluding references)
 
-              Both types of submissions should use the CEURART single-column template, available for download here (ZIP) or via Overleaf.
+              Both types of submissions should use the CEURART single-column template, available for download [here (ZIP)](https://ceur-ws.org/Vol-XXX/CEURART.zip) or via [Overleaf](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).
               
               We particularly encourage case studies that report on challenges, problems, and negative experiences, as these offer valuable insights. Such contributions can serve as a basis for rich discussions at the workshop.
               
               All submissions must be original and not under review at any other conference, workshop, or journal at the time of submission. 
 
-              Papers must be submitted via Easychair: https://easychair.org/conferences2/submissions?a=34736971.
+              Papers must be submitted via Easychair ([link](https://easychair.org/conferences2/submissions?a=34736971)).
 
               Each submission will be reviewed by three members of the Program Committee through a single-anonymized peer review process. Papers will be evaluated based on quality, novelty, clarity, and relevance, with an emphasis on fostering engaging discussions at the workshop. Accepted papers will be invited for presentation during the workshop and will be published in the workshop proceedings (most likely via CEUR-WS) after the event.
 
@@ -84,7 +84,7 @@ sections:
               - Thought experiments, conceptual provocations, or open questions
               - Radical critiques of current methodologies or assumptions
 
-              For these submissions, we ask you to submit an abstract via Easychair: https://easychair.org/conferences2/submissions?a=34736971. 
+              For these submissions, we ask you to submit an abstract via Easychair ([link](https://easychair.org/conferences2/submissions?a=34736971)).
 
 
 
