@@ -97,7 +97,7 @@ sections:
             * Paper and provocative statements (abstract) submission: August 7, 2025, AoE
             * Author notification: August 25, 2025
             * Camera-ready version due: September 4, 2025
-            * Workshop: in the scope of RecSys 2025 (September 22--26, 2025)
+            * Workshop: September 26, 2025, morning session; in the scope of RecSys 2025
   - block: markdown
     id: organizers
     content:
