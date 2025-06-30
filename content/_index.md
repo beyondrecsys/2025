@@ -71,7 +71,8 @@ sections:
               
               All submissions must be original and not under review at any other conference, workshop, or journal at the time of submission. 
 
-              Papers must be submitted via Easychair ([link](https://easychair.org/conferences2/submissions?a=34736971)).
+              Papers must be submitted via Easychair ([link](https://easychair.org/my/conference?conf=recsys2025workshops)). Make sure to select the "Beyond Algorithms: Reclaiming the Interdisciplinary Roots of Recommender Systems" track when creating a submission.
+
 
               Each submission will be reviewed by three members of the Program Committee through a single-anonymized peer review process. Papers will be evaluated based on quality, novelty, clarity, and relevance, with an emphasis on fostering engaging discussions at the workshop. Accepted papers will be invited for presentation during the workshop and will be published in the workshop proceedings (most likely via CEUR-WS) after the event.
 
@@ -84,7 +85,7 @@ sections:
               - Thought experiments, conceptual provocations, or open questions
               - Radical critiques of current methodologies or assumptions
 
-              For these submissions, we ask you to submit an abstract via Easychair ([link](https://easychair.org/conferences2/submissions?a=34736971)).
+              For these submissions, we ask you to submit an abstract via Easychair ([link](https://easychair.org/my/conference?conf=recsys2025workshops)). Make sure to select the "Beyond Algorithms: Reclaiming the Interdisciplinary Roots of Recommender Systems" track when creating a submission.
 
 
 
