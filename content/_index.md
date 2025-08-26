@@ -99,6 +99,21 @@ sections:
             * Author notification: August 25, 2025
             * Camera-ready version due: September 4, 2025
             * Workshop: September 26, 2025, morning session; in the scope of RecSys 2025
+
+  - block: markdown
+    id: program
+    content: 
+      title: Program
+      text: |- 
+          <i class="fas fa-map-marker-alt"></i> Room D6, O2 universum Convention Center  
+
+          08:30 Welcome  
+          08:40 Paper talks: position papers  
+          09:30 Panel  
+          10:30 Coffee Break  
+          11:00 Keynote  
+          11:45 Paper talks: Case studies  
+
   - block: markdown
     id: organizers
     content:
