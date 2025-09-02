@@ -1,0 +1,7 @@
+# Hugo
+/resources/
+public/
+jsconfig.json
+
+# invisible files
+.DS_Store

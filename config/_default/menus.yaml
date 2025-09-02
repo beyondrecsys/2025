@@ -19,9 +19,9 @@ main:
   - name: Program
     url: '#program'
     weight: 50
-  #- name: Keynote
-  #  url: 'keynote'
-  #  weight: 60
+  - name: Keynote
+    url: 'keynote'
+    weight: 60
   - name: Organizers
     url: '#organizers'
     weight: 70

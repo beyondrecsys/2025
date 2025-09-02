@@ -111,7 +111,7 @@ sections:
           08:40 Paper talks: position papers  
           09:30 Panel  
           10:30 Coffee Break  
-          11:00 Keynote  
+          11:00 Keynote by Alexander Tuzhilin: "Exploration – Exploitation Dilemma in Recommender Systems: Is It the Time to Switch to the Exploration Mode Again?" ([further information on keynote]({{<relref "keynote">}} "further information on keynote"))   
           11:45 Paper talks: Case studies  
 
   - block: markdown

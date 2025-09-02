@@ -71,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://introspectives.github.io'
+    url: 'https://beyondrecsys.github.io'
     content_dir: content
     branch: main
   avatar:

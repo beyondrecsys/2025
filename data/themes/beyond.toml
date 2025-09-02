@@ -15,9 +15,9 @@ name = "Beyond"
   menu_title = "#fff"
 
   # Home sections
+  background = "#afa0ca"
   home_section_odd = "#afa0ca"
   home_section_even = "rgba(148,129,185, 0.2)"
-
 
 
 [dark]
@@ -35,5 +35,6 @@ name = "Beyond"
   menu_title = "#fff"
 
   # Home sections
+  background = "#3a2e50"
   home_section_odd = "#3a2e50"
   home_section_even = "#493a64"
